@@ -22,7 +22,7 @@
 <a href="https://github.com/jide23"><img width=550 src="https://github-profile-trophy.vercel.app/?username=jide23&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/jide23"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/jide23"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=jide23&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/jide23"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
