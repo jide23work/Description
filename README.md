@@ -15,4 +15,4 @@
 </br>
 <a href="https://github.com/jide23"><img align="left" title="Github" alt="Github" width="30px" src="https://github.githubassets.com/pinned-octocat.svg" /></a>
 <a href="https://jide23.github.io"><img align="left" title="Website" alt="Website" width="30px" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178162.png?token=exp=1634353672~hmac=5adac42262ac614406e64e1666a03e4a"/></a>
-<a href="https://jide23.github.io"><img align="left" title="Email" alt="Email" width="30px" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1634356762~hmac=28a4f5e37200ca22680da78467580e8f"/></a>
+
