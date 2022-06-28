@@ -1,5 +1,9 @@
 <!-- Github README -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Welcome+to+my+github+page)](https://git.io/typing-svg)
+
+
+
 ```
   _   _      _ _    __        __         _     _ 
  | | | | ___| | | __\ \      / /__  _ __| | __| |               😁  I'm jide23 
