@@ -18,5 +18,5 @@
 
 </br>
 <a href="https://github.com/jide23"><img align="left" title="Github" alt="Github" width="30px" src="https://github.githubassets.com/pinned-octocat.svg" /></a>
-<a href="https://jide23.github.io"><img align="left" title="Website" alt="" width="30px" src="#"/></a>
-
+<a href="https://jide23.github.io"><img align="left" title="Website" alt="" width="30px" src="https://cdn.jsdelivr.net/gh/jide23work/cdn/img/link.svg"/></a>
+<img align='left' src="https://profile-counter.glitch.me/jide23work/count.svg" width="200">
